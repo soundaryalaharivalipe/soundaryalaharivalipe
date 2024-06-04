@@ -1,4 +1,5 @@
 Hey there, I'm Soundarya Lahari! 👋
+![code](https://github.com/soundaryalaharivalipe/soundaryalaharivalipe/assets/169948476/3dd883af-d819-4e34-a60f-76bdc7b2dfd1)
 
 Welcome to my coding world! 🌍
 
