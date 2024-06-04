@@ -8,6 +8,6 @@ Welcome to my coding world! 🌍
 
 🛠️ Tools I love: React.js, Node.js, Java, Spring Boot, and a splash of AWS for that cloud goodness!
 
-🌟 Outside the world of code, I'm an explorer at heart – from the mysteries of new technologies to the thrill of new travels, I’m always on the move. I'm an avid reader 📖 and enjoy experimenting in the kitchen 👩‍🍳, finding both activities to be perfect for unwinding and sparking creativity.
+🌟 Outside the world of code, I'm an explorer at heart – from the mysteries of new technologies to the thrill of new travels, I’m always on the move. I'm an avid reader 📖 and enjoy experimenting in the kitchen 👩‍🍳, finding both activities to be perfect for unwinding and sparking creativity ✨.
 
-🤝 I am passionate about connecting with fellow tech enthusiasts and innovators. Let’s collaborate and build something amazing!✨
+🤝 I am passionate about connecting with fellow tech enthusiasts and innovators. Let’s collaborate and build something amazing!
