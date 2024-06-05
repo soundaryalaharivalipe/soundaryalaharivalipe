@@ -13,7 +13,7 @@ Welcome to my coding world! 🌍
 
 🤝 I am passionate about connecting with fellow tech enthusiasts and innovators. Let’s collaborate and build something amazing! 
 
-📫 Connect with me: You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/v-soundarya-lahari) or through my [GitHub](mailto:your-email).
-
+📫 Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/v-soundarya-lahari) 
 
 
