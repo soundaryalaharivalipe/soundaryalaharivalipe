@@ -12,3 +12,7 @@ Welcome to my coding world! 🌍
 🌟 Outside the world of code, I'm an explorer at heart – from the mysteries of new technologies to the thrill of new travels, I’m always on the move. I'm an avid reader 📖 and enjoy experimenting in the kitchen 👩‍🍳, finding both activities to be perfect for unwinding and sparking creativity ✨.
 
 🤝 I am passionate about connecting with fellow tech enthusiasts and innovators. Let’s collaborate and build something amazing!
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
