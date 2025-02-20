@@ -7,7 +7,7 @@ Welcome to my coding world! 🌍
 
 👩‍💻 With a strong foundation in software engineering, I specialize in crafting dynamic and responsive web solutions that enhance user experiences and boost system efficiency.
 
-🛠️ Tools I love: Java, C#, React, Angular, and a splash of AWS and Azure for that cloud goodness!
+🛠️ Tools I love: Java, C#, Python, Node.js, React, Angular, and a splash of AWS and Azure for that cloud goodness!
 
 🌟 Outside the world of code, I'm an explorer at heart – from the mysteries of new technologies to the thrill of new travels, I’m always on the move. I'm an avid reader 📖 and enjoy experimenting in the kitchen 👩‍🍳, finding both activities to be perfect for unwinding and sparking creativity ✨.
 
